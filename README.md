@@ -1,3 +1,2 @@
-# flutter_application_hw
-
-A new Flutter project.
+# Red Weather Forecast
+Just a flutter app without any interactivity
